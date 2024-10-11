@@ -1,0 +1,1 @@
+You will be writing code for recording the menu items and daily sales of a lemonade stand.
